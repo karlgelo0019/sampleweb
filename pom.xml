@@ -3,9 +3,6 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>sim</groupId>
   <artifactId>SampleWebApp</artifactId>
-  <configuration>
-    <webXml>src\main\webapp\WEB-INF\web.xml</webXml>        
-  </configuration>
   <packaging>war</packaging>
   <version>1.0-SNAPSHOT</version>
   <name>SampleWebApp Maven Webapp</name>
